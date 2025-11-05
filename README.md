@@ -1,1 +1,125 @@
 # artigo-seguranca-ciberseguranca
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Segurança da Informação e Cibersegurança</title>
+<style>
+body {
+    font-family: "Times New Roman", Times, serif;
+    margin: 50px;
+    background-color: #ffffff;
+    color: #000;
+    line-height: 1.6;
+}
+h1, h2, h3 {
+    text-align: center;
+    margin-top: 20px;
+}
+p {
+    text-align: justify;
+    text-indent: 4em;
+    margin-bottom: 1em;
+}
+.meta {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 0.95em;
+}
+footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 0.9em;
+}
+</style>
+</head>
+<body>
+    <h1>Segurança da Informação e Cibersegurança</h1>
+    <p class="meta"><strong>Autora:</strong> Jenifer Messias dos Santos | <strong>Data:</strong> 05 de novembro de 2025</p>
+
+    <h2>Resumo</h2>
+    <p>A segurança da informação e a cibersegurança são áreas fundamentais na sociedade contemporânea, marcada pela crescente digitalização e interconectividade. Este artigo tem como objetivo discutir os principais conceitos, fundamentos teóricos e práticos, políticas públicas, metodologias e desafios relacionados à proteção de dados e sistemas digitais. Além disso, busca-se analisar a relevância da conscientização dos usuários e o papel das organizações frente às normas e legislações vigentes, como a Lei Geral de Proteção de Dados (LGPD) e a norma ISO/IEC 27001. A metodologia adotada consiste em pesquisa bibliográfica e exploratória, com base em autores consagrados e documentos técnicos internacionais. Conclui-se que o fortalecimento da cultura de segurança da informação é essencial para a sustentabilidade e a confiabilidade das operações digitais no século XXI.</p>
+
+    <p><strong>Palavras-chave:</strong> Segurança da informação. Cibersegurança. LGPD. Proteção de dados. ISO 27001.</p>
+
+    <h2>Abstract</h2>
+    <p>Information security and cybersecurity are essential fields in contemporary society, characterized by increasing digitalization and interconnectivity. This article aims to discuss the main concepts, theoretical and practical foundations, public policies, methodologies, and challenges related to the protection of digital data and systems. Furthermore, it analyzes the importance of user awareness and the role of organizations in light of current standards and legislation, such as Brazil's General Data Protection Law (LGPD) and ISO/IEC 27001. The adopted methodology consists of bibliographic and exploratory research, based on established authors and international technical documents. It concludes that strengthening the information security culture is essential for the sustainability and reliability of digital operations in the 21st century.</p>
+
+    <p><strong>Keywords:</strong> Information security. Cybersecurity. LGPD. Data protection. ISO 27001.</p>
+
+    <h2>1 Introdução</h2>
+    <p>Com o avanço exponencial das tecnologias da informação e comunicação (TICs), a sociedade contemporânea passou a depender intensamente de sistemas digitais para a realização de suas atividades cotidianas, profissionais e institucionais. Essa transformação trouxe inúmeros benefícios, como a agilidade na comunicação e a otimização de processos, mas também novos desafios relacionados à proteção das informações e à segurança cibernética (STAIR; REYNOLDS, 2019).</p>
+
+    <p>A segurança da informação surgiu como uma disciplina essencial para garantir a integridade, a confidencialidade e a disponibilidade dos dados. Segundo Laudon e Laudon (2022), o crescimento do volume de dados digitais e a complexidade dos sistemas computacionais ampliaram significativamente a vulnerabilidade das organizações. Nesse contexto, a cibersegurança surge como campo estratégico para proteger ativos digitais e mitigar riscos de ataques, fraudes e vazamentos de informações.</p>
+
+    <p>O objetivo deste artigo é explorar, de forma ampla e fundamentada, os princípios, desafios e boas práticas relacionados à segurança da informação e à cibersegurança, destacando o papel da legislação, das políticas de governança e da cultura organizacional na proteção dos dados e na mitigação de ameaças digitais.</p>
+
+    <h2>2 Fundamentação teórica</h2>
+    <h3>2.1 Conceitos fundamentais</h3>
+    <p>De acordo com a norma ISO/IEC 27000 (ABNT, 2022), segurança da informação é o conjunto de políticas, processos e controles implementados para garantir que as informações de uma organização estejam protegidas contra acessos não autorizados, uso indevido, divulgação, modificação ou destruição. Os três pilares clássicos da segurança da informação são a confidencialidade, a integridade e a disponibilidade (CIA Triad).</p>
+
+    <p>Confidencialidade significa assegurar que apenas pessoas autorizadas tenham acesso às informações; integridade refere-se à garantia de que os dados não serão alterados de forma indevida; e disponibilidade implica que os sistemas e informações estejam acessíveis sempre que necessário. Esses princípios constituem a base de qualquer programa de segurança organizacional (WHITMAN; MATTORD, 2018).</p>
+
+    <h3>2.2 Cibersegurança e ameaças digitais</h3>
+    <p>A cibersegurança é definida pelo Instituto Nacional de Padrões e Tecnologia dos Estados Unidos (NIST, 2018) como a proteção de sistemas, redes e dados contra ataques digitais que buscam roubar, danificar ou interromper serviços. As ameaças mais comuns incluem malwares, ransomwares, phishing e ataques de negação de serviço (DDoS).</p>
+
+    <p>Segundo Kaspersky (2023), os ataques de ransomware aumentaram globalmente mais de 30% entre 2020 e 2023, evidenciando a necessidade de estratégias robustas de defesa. Tais incidentes têm causado prejuízos financeiros e reputacionais significativos para empresas e governos em todo o mundo.</p>
+
+    <h3>2.3 Políticas de segurança e legislação</h3>
+    <p>No contexto brasileiro, a Lei nº 13.709/2018, conhecida como Lei Geral de Proteção de Dados (LGPD), estabelece diretrizes sobre o tratamento de informações pessoais e impõe às organizações a adoção de medidas técnicas e administrativas para proteger os dados dos titulares (BRASIL, 2018). Essa legislação aproximou o Brasil dos padrões internacionais de proteção de dados, como o Regulamento Geral sobre a Proteção de Dados da União Europeia (GDPR).</p>
+
+    <p>Além da LGPD, a norma ISO/IEC 27001 (ABNT, 2022) fornece um modelo para implementação de um Sistema de Gestão de Segurança da Informação (SGSI), o que permite às organizações adotar um conjunto estruturado de controles para mitigar riscos e garantir conformidade legal e técnica.</p>
+
+    <h2>3 Metodologia</h2>
+    <p>Este estudo adota uma abordagem qualitativa, de caráter exploratório e descritivo, com base em revisão bibliográfica e documental. Foram analisados artigos científicos, normas internacionais (ISO/IEC), legislações nacionais (LGPD) e relatórios técnicos publicados por entidades especializadas, como o NIST, a ENISA (European Union Agency for Cybersecurity) e a Kaspersky Security Labs.</p>
+
+    <p>Segundo Gil (2008), a pesquisa exploratória tem como propósito proporcionar maior familiaridade com o problema, tornando-o mais explícito ou construindo hipóteses. Dessa forma, este artigo buscou compreender o estado atual da cibersegurança no Brasil e no mundo, suas tendências e desafios emergentes.</p>
+
+    <h2>4 Resultados e Discussão</h2>
+    <p>Os resultados da análise bibliográfica indicam que a segurança da informação ainda é tratada de forma fragmentada em muitas organizações. Embora a adoção de tecnologias de proteção, como firewalls, antivírus e criptografia, seja amplamente difundida, a ausência de políticas integradas e de uma cultura organizacional voltada à segurança continua sendo um obstáculo relevante (CASTELLS, 2020).</p>
+
+    <p>Além disso, observou-se que a conscientização dos colaboradores é fator determinante para o sucesso de qualquer política de segurança. Segundo o relatório da IBM Security (2023), mais de 90% dos incidentes cibernéticos têm origem em erro humano, seja por negligência, falta de treinamento ou engenharia social. Assim, a capacitação contínua e campanhas educativas são componentes indispensáveis de um programa eficaz.</p>
+
+    <p>Outro ponto discutido é o papel da governança corporativa. A implementação de frameworks como o COBIT 5 e o ITIL tem contribuído para estruturar processos de gestão da segurança e garantir o alinhamento entre tecnologia e estratégia organizacional (ISACA, 2019).</p>
+
+    <p>Em relação às legislações, verificou-se que a LGPD vem promovendo avanços significativos na proteção de dados no Brasil. No entanto, desafios permanecem, especialmente quanto à fiscalização e à adaptação de pequenas empresas, que muitas vezes carecem de recursos técnicos e humanos para cumprir integralmente os requisitos legais (DONEDA, 2021).</p>
+
+    <h2>5 Conclusão</h2>
+    <p>A segurança da informação e a cibersegurança constituem pilares indispensáveis para a sustentabilidade digital das organizações. A partir desta pesquisa, conclui-se que a eficácia das políticas de proteção de dados depende não apenas de investimentos tecnológicos, mas também do comprometimento organizacional e da conscientização humana.</p>
+
+    <p>Recomenda-se que as instituições implementem sistemas de gestão baseados em normas internacionais, promovam treinamentos constantes e integrem a segurança como valor corporativo. No cenário global, o fortalecimento das legislações e a cooperação internacional também se mostram essenciais diante da natureza transnacional das ameaças cibernéticas.</p>
+
+    <p>Portanto, é imperativo compreender que a cibersegurança não é apenas uma questão técnica, mas estratégica, ética e social. O futuro digital seguro depende da união entre tecnologia, governança e educação.</p>
+
+    <h2>Referências</h2>
+    <p>ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. <strong>ABNT NBR ISO/IEC 27001:</strong> Tecnologia da informação — Técnicas de segurança — Sistemas de gestão da segurança da informação — Requisitos. Rio de Janeiro: ABNT, 2022.</p>
+
+    <p>BRASIL. <strong>Lei nº 13.709, de 14 de agosto de 2018.</strong> Dispõe sobre a proteção de dados pessoais e altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet). Diário Oficial da União, Brasília, 15 ago. 2018.</p>
+
+    <p>CASTELLS, Manuel. <strong>Sociedade em Rede:</strong> A era da informação. 8. ed. São Paulo: Paz e Terra, 2020.</p>
+
+    <p>DONEDA, Danilo. <strong>Da privacidade à proteção de dados pessoais:</strong> Elementos da formação da Lei Geral de Proteção de Dados. 3. ed. São Paulo: Atlas, 2021.</p>
+
+    <p>GIL, Antonio Carlos. <strong>Métodos e técnicas de pesquisa social.</strong> 6. ed. São Paulo: Atlas, 2008.</p>
+
+    <p>IBM SECURITY. <strong>Cost of a Data Breach Report 2023.</strong> Disponível em: https://www.ibm.com/security/data-breach. Acesso em: 2 nov. 2025.</p>
+
+    <p>ISACA. <strong>COBIT 5: A Business Framework for the Governance and Management of Enterprise IT.</strong> Rolling Meadows, IL: ISACA, 2019.</p>
+
+    <p>KASPERSKY. <strong>Relatório Global de Ameaças 2023.</strong> Moscou: Kaspersky Lab, 2023.</p>
+
+    <p>LAUDON, Kenneth C.; LAUDON, Jane P. <strong>Sistemas de informação gerenciais.</strong> 15. ed. São Paulo: Pearson, 2022.</p>
+
+    <p>NIST — NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY. <strong>Framework for Improving Critical Infrastructure Cybersecurity.</strong> Gaithersburg, MD: NIST, 2018.</p>
+
+    <p>STAIR, Ralph M.; REYNOLDS, George W. <strong>Princípios de sistemas de informação:</strong> Uma abordagem gerencial. 13. ed. São Paulo: Cengage Learning, 2019.</p>
+
+    <p>WHITMAN, Michael E.; MATTORD, Herbert J. <strong>Principles of Information Security.</strong> 6th ed. Boston: Cengage Learning, 2018.</p>
+
+    <footer>
+        <p>© 2025 Jenifer Messias dos Santos — Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
